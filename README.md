@@ -1,9 +1,9 @@
 The following repos are related to the Epistemological Directories (EDs):
 
-[Frontier Map](https://github.com/Orthogonal-Research-Lab/FrontierMap)
+Frontier Map [link](https://github.com/Orthogonal-Research-Lab/FrontierMap)
 
-[Knowledge Maps](https://github.com/Orthogonal-Research-Lab/Knowledge-Maps)
+Knowledge Maps [link](https://github.com/Orthogonal-Research-Lab/Knowledge-Maps)
 
-[Neuromatch Academy ED](https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/tree/master/Epistemological%20Directory)
+Neuromatch Academy ED [link](https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/tree/master/Epistemological%20Directory)
 
-[Cybernetics and Systems](https://github.com/Orthogonal-Research-Lab/Cybernetics-and-Systems)
+Cybernetics and Systems [link](https://github.com/Orthogonal-Research-Lab/Cybernetics-and-Systems)
